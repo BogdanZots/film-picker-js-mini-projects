@@ -1,2 +1,2 @@
-# film-picker-js-mini-projects
+# film-picker-js-mini-project
 https://bogdanzots.github.io/film-picker-js-mini-projects/
